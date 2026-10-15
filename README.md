@@ -14,13 +14,13 @@ To position the "Free Dive" checkbox and the main dive window, drag the provided
 ### Main window
 
 The main dive window has multiple useful information displayed:
--Speed: Your current maximum speed according to your stats screen
--Air Bar: The blue bar is the visual indication of the remaining air.
--Air left: Your current breathing device time left. It stays at 0:00 when there is no breathing device equipped. When air is below 1m, the air bar will flash red to alert the diver of imminent loss of air.
--Depth: How deep is the character underwater
--Bags Left: The amount of Recovery Pouches in the inventory
--Treasures Lifted: The amount of Sunken Treasure Chests that has been salvaged while the addon was loaded (does not require to have breathing apparatus equipped or free dive mode enabled)\
--Compass: To know where you are headed
+(-) Speed: Your current maximum speed according to your stats screen
+(-) Air Bar: The blue bar is the visual indication of the remaining air.
+(-) Air left: Your current breathing device time left. It stays at 0:00 when there is no breathing device equipped. When air is below 1m, the air bar will flash red to alert the diver of imminent loss of air.
+(-) Depth: How deep is the character underwater
+(-) Bags Left: The amount of Recovery Pouches in the inventory
+(-) Treasures Lifted: The amount of Sunken Treasure Chests that has been salvaged while the addon was loaded (does not require to have breathing apparatus equipped or free dive mode enabled)\
+(-) Compass: To know where you are headed
 
 ### Waypoint Controls
 
@@ -29,16 +29,16 @@ The addon features a waypoint system in world coordinates. The addon comes with 
 There are two buil tin waypoints available: Treasure chests and old jars. By selecting one of these, the waypoint actions will only apply to that set of waypoints
 
 Available actions:
--Add: Adds a waypoint at the current character location
--Remove: Removes the closest waypoint to the character in 10m
--Range: Selects the display range of the activated waypoint group
--Next: Skips the currently tracked waypoint and jumps to the next. Does not mark the waypoint as visited.
--Reset: Resets the tracking mechanism and marks all waypoints not visited.
+(-) Add: Adds a waypoint at the current character location
+(-) Remove: Removes the closest waypoint to the character in 10m
+(-) Range: Selects the display range of the activated waypoint group
+(-) Next: Skips the currently tracked waypoint and jumps to the next. Does not mark the waypoint as visited.
+(-) Reset: Resets the tracking mechanism and marks all waypoints not visited.
 
 There are three checkboxes that interface with the waypoint system:
--Overlay: Turns the heads up display and rendering of waypoints in screen space on or off
--Track: Adds the next waypoint onto the compass
--Guides: Enables a dotted line indication to guide the diver to the next waypoint
+(-) Overlay: Turns the heads up display and rendering of waypoints in screen space on or off
+(-) Track: Adds the next waypoint onto the compass
+(-) Guides: Enables a dotted line indication to guide the diver to the next waypoint
 
 The waypoint guide system targets the closest waypoint to the player and updates based on the players position. It generates a guide line up to 4 additional waypoints following the next closest location.
 When the character is 10m or closer to a waypoint, it switches to "visited" state, and teh guide system will ignore these to avoid re-routing to already visited waypoints.
@@ -55,9 +55,9 @@ It shows character, heading, and lines connecting the character to the top 5 mos
 ## Credits
 
 Ideas and waypoint gathering help from:
--Coffeeplease
--Yuzz
--Fayris
+(-) Coffeeplease
+(-) Yuzz
+(-) Fayris
 
 Assets are royalty free iamges from en.ac-illust.com and flaticon.com.
 
