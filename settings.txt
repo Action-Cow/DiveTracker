@@ -1,0 +1,8 @@
+{
+    track = false,
+    wptype = 1,
+    overlay = true,
+    guides = true,
+    range = 1500,
+    interface = false,
+}
