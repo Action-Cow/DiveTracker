@@ -6,7 +6,7 @@ Peer into the Abyss
 
 ### Interface
 
-The dive interface automatically activates then w breathing device is equipped, such as from the back of a warship or the side of the adventurers clipper.
+The dive interface automatically activates when a breathing device is equipped, such as from the back of a warship or the side of the adventurers clipper.
 To activate the interface without a breathing apparatus, click the "Free Dive" checkbox.
 
 To position the "Free Dive" checkbox and the main dive window, drag the provided handles on the side or on the top respectively.
