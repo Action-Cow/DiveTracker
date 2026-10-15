@@ -19,7 +19,7 @@ The main dive window has multiple useful information displayed:
 -Air left: Your current breathing device time left. It stays at 0:00 when there is no breathing device equipped. When air is below 1m, the air bar will flash red to alert the diver of imminent loss of air.
 -Depth: How deep is the character underwater
 -Bags Left: The amount of Recovery Pouches in the inventory
--Treasures Lifted: The amount of Sunken Treasure Chests that has been salvaged while the addon was loaded (does not require to have breathing apparatus equipped or free dive mode enabled)
+-Treasures Lifted: The amount of Sunken Treasure Chests that has been salvaged while the addon was loaded (does not require to have breathing apparatus equipped or free dive mode enabled)\
 -Compass: To know where you are headed
 
 ### Waypoint Controls
