@@ -11,7 +11,7 @@ end
 local DiveTracker = {
     name = "DiveTracker",
     author = "Actioncow",
-    desc = "Diving HUD: oxygen, speed, depth, compass, treasure counter and waypoints",
+    desc = "Diving HUD: air, speed, depth, compass, waypoints",
     version = "0.1.0"
 }
 
